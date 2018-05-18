@@ -1,0 +1,17 @@
+[
+{
+  "modid": "RandomSupplies",
+  "name": "RandomSupplies",
+  "description": "Get supplyments!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Smt_Redstoner"],
+  "credits": "Sprucians!",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
+
